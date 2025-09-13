@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://hsaresh:Asdfgh22@devconnector0.iopdzra.mongodb.net/?retryWrites=true&w=majority&appName=devConnector0",
-	"jwtSecret": "mysecrettoken"
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "secret",
+	"githubSecret": "secret"
 }
